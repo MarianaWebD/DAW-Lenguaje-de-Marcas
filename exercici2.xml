@@ -1,0 +1,54 @@
+<cataleg>
+<movie id="P01">
+    <title>El laberinto del fauno</title>
+    <year>2006</year>
+    <genre>Fantasía</genre>
+    <duration unitat="min">118</duration>
+    <actors>
+        <actor>
+            <name>Ivana</name>
+            <surname>Baquero</surname>
+        </actor>
+        <actor>
+            <name>Sergi</name>
+            <surname>López</surname>
+        </actor>
+    </actors>
+</movie>
+<movie id="P02">
+    <title>Societat Morta</title>
+    <year>1989</year>
+    <genre>Drama</genre>
+    <duration unitat="min">128</duration>
+    <actors>
+        <actor>
+            <name>Robin</name>
+            <surname>Williams</surname>
+        </actor>
+        <actor>
+            <name>Ethan</name>
+            <surname>Hawke</surname>
+        </actor>
+<actor>
+<name>Robert Sean</name>
+<surname>Leonard</surname>
+</actor>
+    </actors>
+</movie>
+<movie id="P03">
+    <title>Interstellar</title>
+    <year>2014</year>
+    <genre>Ciencia Ficción</genre>
+    <duration unitat="min">169</duration>
+    <actors>
+        <actor>
+            <name>Matthew</name>
+            <surname>McConaughey</surname>
+        </actor>
+        <actor>
+            <name>Anne</name>
+            <surname>Hathaway</surname>
+        </actor>
+    </actors>
+</movie>
+</cataleg>
