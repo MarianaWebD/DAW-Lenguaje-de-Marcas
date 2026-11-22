@@ -1,0 +1,35 @@
+<tornei>
+<teams>
+<team id="10">
+    <name>Raquetes Blaves</name>
+    <players>
+        <player dorsal="1">
+            <name>Carles Vidal</name>
+            <category>A</category>
+        </player>
+        <player dorsal="2">
+            <name>Marta Puig</name>
+            <category>B</category>
+        </player>
+    </players>
+</team>
+
+<team id="11">
+    <name>Smash FC</name>
+    <players>
+        <player dorsal="1">
+            <name>Jordi Roca</name>
+            <category>A</category>
+        </player>
+        <player dorsal="2">
+            <name>Laia Solà</name>
+            <category>A</category>
+        </player>
+        <player dorsal="3">
+            <name>Pere Mas</name>
+            <category>B</category>
+        </player>
+     </players>
+   </team>
+</teams>
+</tornei>
