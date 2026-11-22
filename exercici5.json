@@ -1,0 +1,51 @@
+{
+ "enquestes": [
+ {
+ "id":1,
+ "titol": "Hábitos de videojuegos",
+ "activa": true,
+"preguntes": [
+{
+"ordre":1,
+"text": "¿Cuántas horas juegas a videojuegos al día?",
+"tipus": "opcio_multiple",
+"opcions": [
+"Menos de 1 hora",
+"Entre 1 y 3 horas",
+"Más de 3 horas",
+"No juego a videojuegos"
+]
+},
+{
+"ordre":2,
+"text": "¿Cuál es tu videojuego favorito?",
+"tipus": "text_lliure"
+ }
+]
+},
+
+ {
+ "id":2,
+ "titol": "Hábitos de lectura",
+ "activa": false,
+"preguntes": [
+{
+"ordre":1,
+"text": "¿Cuántos libros lees al año?",
+"tipus": "opcio_multiple",
+"opcions": [
+"Ninguno",
+"Entre 1 y 5",
+"Más de 5"
+]
+},
+{
+"ordre":2,
+"text": "¿Cuál es tu libro favorito?",
+"tipus": "text_lliure"
+ }
+]
+}
+]
+}
+
